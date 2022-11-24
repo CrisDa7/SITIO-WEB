@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(Imagenes/25.jpg) no-repeat;
+    background-size: cover;
+}
+.autor{
+    text-align: center;
+    width: 500px;
+    background: rgba(0, 0, 0, .4);
+    margin: 0 auto;
+    margin-top: 4%;
+    padding: 20px;
+    color:  white;
+
+}
+.presentacion{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.linea{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+#Boton{
+    text-align: right;
+    background-color: white;
+}

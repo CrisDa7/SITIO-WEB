@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+}
+body{
+    text-align: center;
+    padding: 1%;
+    background-image: url(Imagenes/fondoproyecto.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+p{
+    padding: 1%;
+    font-size: 20px;
+    color: #fff;
+}
+.Historias{
+    padding: 5%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.hitoria1{
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+}
+.hitoria2{
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+}
+.hitoria3{
+    display: flex;
+    justify-content: center;
+}
+.hitoria4{
+    display: flex;
+    justify-content: center;
+}
+.hitoria5{
+    display: flex;
+    justify-content: center;
+}
+#Boton{
+    text-align: right;
+    background-color: #fff;
+}
+#UML{
+    padding: 3%;
+}
+.proyecto{
+    padding: 1%;
+}
+.diagrama{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    padding: 1%;
+}
+.sistema{
+    padding: 1%;
+}
+.info{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.titulohistoria{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
